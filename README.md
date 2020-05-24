@@ -1,4 +1,4 @@
-# Exercícios de fixação
+# Exercícios de fixação (nível básico)
 
 - Remova uma linha 
 - Adicione uma nova linha no mesmo arquivo
