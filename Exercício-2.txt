@@ -1,0 +1,9 @@
+---------------------------------
+2) Históricos e conflitos
+---------------------------------
+
+a. Crie um conflito no repositório de seu par
+b. Seu par deve editar o mesmo arquivo que você
+c. Você deve fazer o pull, resolver o conflito e dar o push das alterações.
+d. Seu par deve ver que a sua alteração foi adicionada junto à alteração dele
+e. Invertam os papéis
