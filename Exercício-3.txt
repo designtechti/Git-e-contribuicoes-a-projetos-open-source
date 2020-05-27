@@ -1,0 +1,9 @@
+-------------------------------
+3) Branching
+-------------------------------
+
+a. Crie uma nova branch no seu repositório
+b. Mude para esta branch e faça pelo menos 2 commits
+c. Faça o upload e veja sua nova branch no GitHub
+d. Faça um commit na master que altere as mesmas linhas
+e. Veja como as branchs divergem no GitHub
