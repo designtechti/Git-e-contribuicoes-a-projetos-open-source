@@ -1,9 +1,0 @@
-----------------------------------
-1) Básico em Git
-----------------------------------
-
-a. Remova uma linha 
-b. Adicione uma nova linha no mesmo arquivo
-c. Adicione um novo arquivo com pelo menos uma linha
-d. Faça o commit e o push das alterações
-e. Veja as diferenças do commit pelo Github
