@@ -1,0 +1,7 @@
+----------------------------------
+7) Branching, Merge & Rebase
+----------------------------------
+
+a. Com a branch master sincronizadas você e seu par devem fazer commits na master.
+b. Seu par deve fazer o push dos commits dele.
+c. Antes de você fazer o push dos seus commits você deve fazer o rebase com os commits do seu par.
